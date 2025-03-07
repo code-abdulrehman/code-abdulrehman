@@ -24,7 +24,9 @@
   <a href="https://github-scroller.vercel.app/" target="_blank" style="margin-left: 12px;">
       <img alt="project" src="https://img.shields.io/badge/Github-Scroller%20-%239333ea.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  
+    <a href="https://puter-hosting-app.vercel.app/" target="_blank" style="margin-left: 12px;">
+<img alt="project" src="https://img.shields.io/badge/Puter-Hosting%20-%2300BFFF.svg?&style=for-the-badge&logo=internet-explorer&logoColor=white"/>
+  </a>
   
 
 </div>
